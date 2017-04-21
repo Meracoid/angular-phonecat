@@ -7,7 +7,7 @@
     "availability": [
         "Sprint"
     ],
-    "price": "$299",
+    "price": 299,
     "battery": {
         "standbyTime": "930 hours", 
         "talkTime": "9 hours", 
@@ -61,5 +61,7 @@
     "storage": {
         "flash": "180MB", 
         "ram": "384MB"
-    }
+    },
+    "snippet": "The Samsung Transform\u2122 brings you a fun way to customize your Android powered touch screen phone to just the way you like it through your favorite themed \u201cSprint ID Service Pack\u201d.",
+    "imageUrl": "img/phones/samsung-transform.0.jpg"
 }

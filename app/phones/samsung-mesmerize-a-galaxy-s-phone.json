@@ -7,7 +7,7 @@
     "availability": [
         "US Cellular"
     ],
-    "price": "$999",
+    "price": 999,
     "battery": {
         "standbyTime": "1000 hours", 
         "talkTime": "7 hours", 
@@ -60,5 +60,7 @@
     "storage": {
         "flash": "2048MB", 
         "ram": "512MB"
-    }
+    },
+    "snippet": "The Samsung Mesmerize\u2122 delivers a cinema quality experience like you\u2019ve never seen before. Its innovative 4\u201d touch display technology provides rich picture brilliance,even outdoors",
+    "imageUrl": "img/phones/samsung-mesmerize-a-galaxy-s-phone.0.jpg"
 }

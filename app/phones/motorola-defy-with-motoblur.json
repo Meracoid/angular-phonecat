@@ -9,7 +9,7 @@
         "T-Mobile,", 
         "Vodafone"
     ],
-    "price": "$4999",
+    "price": 4999,
     "battery": {
         "standbyTime": "400 hours", 
         "talkTime": "6 hours", 
@@ -61,5 +61,7 @@
     "storage": {
         "flash": "2000MB", 
         "ram": "512MB"
-    }
+    },
+    "snippet": "Are you ready for everything life throws your way?",
+    "imageUrl": "img/phones/motorola-defy-with-motoblur.0.jpg"
 }

@@ -13,7 +13,7 @@
         "T-Mobile,", 
         "Vodafone"
     ],
-    "price": "$599",
+    "price": 599,
     "battery": {
         "standbyTime": "428 hours", 
         "talkTime": "6 hours", 
@@ -66,5 +66,7 @@
     "storage": {
         "flash": "16384MB", 
         "ram": "512MB"
-    }
+    },
+    "snippet": "Fast just got faster with Nexus S. A pure Google experience, Nexus S is the first phone to run Gingerbread (Android 2.3), the fastest version of Android yet.",
+    "imageUrl": "img/phones/nexus-s.0.jpg"
 }

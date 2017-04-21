@@ -7,7 +7,7 @@
     "availability": [
         "Sprint"
     ],
-    "price": "$599",
+    "price": 599,
     "battery": {
         "standbyTime": "", 
         "talkTime": "4 hours", 
@@ -58,5 +58,7 @@
     "storage": {
         "flash": "130MB", 
         "ram": "256MB"
-    }
+    },
+    "snippet": "The Sanyo Zio by Kyocera is an Android smartphone with a combination of ultra-sleek styling, strong performance and unprecedented value.",
+    "imageUrl": "img/phones/sanyo-zio.0.jpg"
 }

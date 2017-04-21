@@ -10,7 +10,7 @@
         "T-Mobile,", 
         "Verizon"
     ],
-    "price": "$2999",
+    "price": 2999,
     "battery": {
         "standbyTime": "780 hours", 
         "talkTime": "", 
@@ -66,5 +66,7 @@
     "storage": {
         "flash": "16384MB", 
         "ram": "640MB"
-    }
+    },
+    "snippet": "Feel Free to Tab\u2122. The Samsung Galaxy Tab\u2122 brings you an ultra-mobile entertainment experience through its 7\u201d display, high-power processor and Adobe\u00ae Flash\u00ae Player compatibility.",
+    "imageUrl": "img/phones/samsung-galaxy-tab.0.jpg"
 }

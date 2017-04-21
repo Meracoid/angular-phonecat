@@ -7,7 +7,7 @@
     "availability": [
         ""
     ],
-    "price": "$500",
+    "price": 500,
     "battery": {
         "standbyTime": "336 hours", 
         "talkTime": "24 hours", 
@@ -62,5 +62,7 @@
     "storage": {
         "flash": "32000MB", 
         "ram": "1000MB"
-    }
+    },
+    "snippet": "The Next, Next Generation\r\n\r\nExperience the future with Motorola XOOM with Wi-Fi, the world's first tablet powered by Android 3.0 (Honeycomb).",
+    "imageUrl": "img/phones/motorola-xoom-with-wi-fi.0.jpg"
 }

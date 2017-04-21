@@ -24,7 +24,7 @@
   </li>
   <li>
     <span>Price</span>
-    <p>{{$ctrl.phone.price}}</p>
+    <p>$ {{$ctrl.phone.price}}</p>
   </li>
   <li>
     <span>Battery</span>
@@ -119,6 +119,7 @@
     <dd>{{$ctrl.phone.additionalFeatures}}</dd>
   </li>
   <li>
-    <button onclick="addToCart(phone)">Add to Cart</button>
+    <button ng-click="$ctrl.addToCart($ctrl.phone)">Add to Cart</button>
+    <button onclick="window.history.back()">Back</button>
   </li>
 </ul>

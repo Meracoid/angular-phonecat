@@ -5,8 +5,8 @@ angular.
   module('login').
   component('login', {
     templateUrl: 'login/login-screen.template.html',
-    controller: ['$routeParams', 'Login',
-      function LoginController($routeParams, Login) {
+    controller: ['Login',
+      function LoginController(Login) {
         var self = this;
 
         self.login = function login(){
@@ -18,6 +18,7 @@ angular.
                     "username": "admin",
                     "password": "password",
                     "cart": [],
+                    "total": 0,
                 };
                 localStorage['user'] = JSON.stringify(user);
                 window.location.replace('/#!/phones');

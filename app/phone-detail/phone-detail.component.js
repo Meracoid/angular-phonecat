@@ -17,7 +17,19 @@ angular.
         };
 
         self.addToCart = function addToCart(item) {
-          $scope.user.item.unshift(item);
+          var stored = localStorage['user'];
+          var user;
+          if (stored){
+           user = JSON.parse(stored);
+          } else {
+            window.alert("YOU MUST LOGIN TO USE FEATURE. REDIRECT TO LOGIN");
+            window.location.replace("/#!/login");
+            return;
+          }
+          user.total += item.price;
+          window.alert("Item added to cart");
+          user.cart.unshift(item);
+          localStorage['user'] = JSON.stringify(user);
         }
       }
     ]

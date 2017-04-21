@@ -1,6 +1,4 @@
 'use strict';
 
 // Define the `phoneDetail` module
-angular.module('login', [
-  'core.login',
-]);
+angular.module('cart', ['core.login']);

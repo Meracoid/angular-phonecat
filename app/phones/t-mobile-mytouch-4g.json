@@ -7,7 +7,7 @@
     "availability": [
         "T-Mobile"
     ],
-    "price": "$2999",
+    "price": 2999,
     "battery": {
         "standbyTime": "285 hours", 
         "talkTime": "7 hours", 
@@ -62,5 +62,7 @@
     "storage": {
         "flash": "1100MB", 
         "ram": "768MB"
-    }
+    },
+    "snippet": "The T-Mobile myTouch 4G is a premium smartphone designed to deliver blazing fast 4G speeds so that you can video chat from practically anywhere, with or without Wi-Fi.",
+    "imageUrl": "img/phones/t-mobile-mytouch-4g.0.jpg"
 }

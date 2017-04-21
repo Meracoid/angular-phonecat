@@ -7,7 +7,7 @@
     "availability": [
         "AT&T"
     ],
-    "price": "$599",
+    "price": 599,
     "battery": {
         "standbyTime": "216 hours", 
         "talkTime": "6 hours", 
@@ -58,5 +58,7 @@
     "storage": {
         "flash": "", 
         "ram": ""
-    }
+    },
+    "snippet": "An experience to cheer about.",
+    "imageUrl": "img/phones/motorola-bravo-with-motoblur.0.jpg"
 }

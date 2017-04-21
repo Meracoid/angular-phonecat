@@ -4,7 +4,7 @@
         "os": "Android 2.2", 
         "ui": "Dell Stage"
     },
-    "price": "$1999",
+    "price": 1999,
     "availability": [
         "AT&T,", 
         "KT,", 
@@ -64,5 +64,7 @@
     "storage": {
         "flash": "1000MB", 
         "ram": "512MB"
-    }
+    },
+    "snippet": "The Dell Venue; Your Personal Express Lane to Everything",
+    "imageUrl": "img/phones/dell-venue.0.jpg"
 }
