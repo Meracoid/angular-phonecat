@@ -12,7 +12,8 @@
         "StarHub,", 
         "T-Mobile,", 
         "Vodafone"
-    ], 
+    ],
+    "price": "$599",
     "battery": {
         "standbyTime": "428 hours", 
         "talkTime": "6 hours", 

@@ -6,7 +6,8 @@
     }, 
     "availability": [
         "T-Mobile"
-    ], 
+    ],
+    "price": "$2999",
     "battery": {
         "standbyTime": "285 hours", 
         "talkTime": "7 hours", 

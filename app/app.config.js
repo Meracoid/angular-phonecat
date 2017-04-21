@@ -13,6 +13,12 @@ angular.
         when('/phones/:phoneId', {
           template: '<phone-detail></phone-detail>'
         }).
+        when('/login', {
+          template: '<login></login>'
+        }).
+        when('/cart', {
+          template: '<cart></cart>'
+        }).
         otherwise('/phones');
     }
   ]);

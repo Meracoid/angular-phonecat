@@ -23,6 +23,10 @@
     </dl>
   </li>
   <li>
+    <span>Price</span>
+    <p>{{$ctrl.phone.price}}</p>
+  </li>
+  <li>
     <span>Battery</span>
     <dl>
       <dt>Type</dt>
@@ -113,5 +117,8 @@
   <li>
     <span>Additional Features</span>
     <dd>{{$ctrl.phone.additionalFeatures}}</dd>
+  </li>
+  <li>
+    <button onclick="addToCart(phone)">Add to Cart</button>
   </li>
 </ul>

@@ -6,7 +6,8 @@
     }, 
     "availability": [
         "AT&T"
-    ], 
+    ],
+    "price": "$599",
     "battery": {
         "standbyTime": "216 hours", 
         "talkTime": "6 hours", 

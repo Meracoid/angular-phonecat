@@ -15,6 +15,10 @@ angular.
         self.setImage = function setImage(imageUrl) {
           self.mainImageUrl = imageUrl;
         };
+
+        self.addToCart = function addToCart(item) {
+          $scope.user.item.unshift(item);
+        }
       }
     ]
   });

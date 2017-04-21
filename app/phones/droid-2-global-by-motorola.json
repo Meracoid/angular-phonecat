@@ -3,7 +3,8 @@
     "android": {
         "os": "Android 2.2", 
         "ui": ""
-    }, 
+    },
+    "price": "$299",
     "availability": [
         "Verizon"
     ], 

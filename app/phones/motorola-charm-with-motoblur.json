@@ -7,7 +7,8 @@
     "availability": [
         "T-Mobile,", 
         "Telus"
-    ], 
+    ],
+    "price": "$295",
     "battery": {
         "standbyTime": "267 hours", 
         "talkTime": "5 hours", 

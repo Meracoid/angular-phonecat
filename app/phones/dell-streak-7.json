@@ -3,7 +3,8 @@
     "android": {
         "os": "Android 2.2", 
         "ui": "Dell Stage"
-    }, 
+    },
+    "price": "$2999",
     "availability": [
         "T-Mobile"
     ], 

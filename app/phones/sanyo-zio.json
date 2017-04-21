@@ -6,7 +6,8 @@
     }, 
     "availability": [
         "Sprint"
-    ], 
+    ],
+    "price": "$599",
     "battery": {
         "standbyTime": "", 
         "talkTime": "4 hours", 

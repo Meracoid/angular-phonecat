@@ -6,7 +6,8 @@
     }, 
     "availability": [
         "US Cellular"
-    ], 
+    ],
+    "price": "$999",
     "battery": {
         "standbyTime": "1000 hours", 
         "talkTime": "7 hours", 

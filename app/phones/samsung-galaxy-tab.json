@@ -9,7 +9,8 @@
         "Sprint,", 
         "T-Mobile,", 
         "Verizon"
-    ], 
+    ],
+    "price": "$2999",
     "battery": {
         "standbyTime": "780 hours", 
         "talkTime": "", 

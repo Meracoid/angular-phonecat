@@ -6,7 +6,8 @@
     }, 
     "availability": [
         "Cellular South"
-    ], 
+    ],
+    "price": "$299",
     "battery": {
         "standbyTime": "800 hours", 
         "talkTime": "7 hours", 

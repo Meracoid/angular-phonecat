@@ -6,7 +6,8 @@
     }, 
     "availability": [
         "Verizon"
-    ], 
+    ],
+    "price": "$299",
     "battery": {
         "standbyTime": "336 hours", 
         "talkTime": "24 hours", 

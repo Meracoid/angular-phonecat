@@ -3,7 +3,8 @@
     "android": {
         "os": "Android 2.2", 
         "ui": "Dell Stage"
-    }, 
+    },
+    "price": "$1999",
     "availability": [
         "AT&T,", 
         "KT,", 

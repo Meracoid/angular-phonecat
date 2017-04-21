@@ -8,7 +8,8 @@
         "SFR,", 
         "T-Mobile,", 
         "Vodafone"
-    ], 
+    ],
+    "price": "$4999",
     "battery": {
         "standbyTime": "400 hours", 
         "talkTime": "6 hours", 
